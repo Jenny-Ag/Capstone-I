@@ -1,3 +1,4 @@
+
 How Long Have Cancer Patients Left To Live
 
 More than 50,000 new cancer patients are diagnosed every year in USA. Every patient goes through a long process of diagnoses, sometimes in early stages and more than 46% of cancers are diagnosed only in very advanced stages. Patients undergo many rounds of expensive multiple treatments, which includes radiotherapy and chemotherapy and many more cancer profiling resulted treatments. However despite of all the fancy treatments, these patients constantly faced by huge mental trauma due to side-effects of the treatments as well as a dreadful questions like “When will I die?”, “How long have I got”, and “How much longer can I live?” This project aims to answer these questions and will attempt to provide a clearer picture of the mortality due to site-specific cancer. 
@@ -11,3 +12,7 @@ The data including various features like cancer sites, states, year, sex, age an
 
 To conclude the project I would provide code for data analysis and report with the presentation slide deck that would include every detail of the analysis and highlight its salient features.  
  
+
+# Capstone-I
+Springboard Data Science Career Track first project 
+>
