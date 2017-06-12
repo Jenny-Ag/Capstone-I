@@ -9,5 +9,5 @@ In this project the data of United States Cancer Statistics, 1999-2013 provided 
 https://wonder.cdc.gov/CancerMort-v2013.html
 The data including various features like cancer sites, states, year, sex, age and race would be downloaded in .csv files from the website. Further, data wrangling would be performed using pandas in python. These data files will be merged into one dataframe that would have mortality data for every category combinations. This data will be used for exploratory data analysis, where various features of the data like max, min, average, geographic/ demographic distributions and many others would be analyzed. This will provide a better understanding of the data and its caveats. Data will be wrangled again to remove any caveats that can skew further analysis. Finally, predictive data analysis will be performed and deeper insights into cancer-site mortality predictions will be achieved. 
 
-To conclude the project I would provide code for data analysis and report with the presentation slide deck that would include every detail of the analysis and highlight its salient features. 
+To conclude the project I would provide code for data analysis and report with the presentation slide deck that would include every detail of the analysis and highlight its salient features.  
  
