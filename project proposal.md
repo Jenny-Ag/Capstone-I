@@ -1,3 +1,5 @@
+# Capstone-I
+Springboard Data Science Career Track first project 
 
 How Long Have Cancer Patients Left To Live
 
@@ -13,6 +15,5 @@ The data including various features like cancer sites, states, year, sex, age an
 To conclude the project I would provide code for data analysis and report with the presentation slide deck that would include every detail of the analysis and highlight its salient features.  
  
 
-# Capstone-I
-Springboard Data Science Career Track first project 
->
+
+
